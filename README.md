@@ -1,5 +1,6 @@
 # 3D-Maze
 Algoritmic project in java
+
 [3DMaze-server-src-code](https://github.com/eldariko/3DMaze-server-src-code)
 
 [3DMaze-client-src-code](https://github.com/eldariko/3DMaze-client-src-code)
